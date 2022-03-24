@@ -1,9 +1,9 @@
-# LunaChatBot
+# Tanjiro
 Just another Telegram AI chat bot written in Python using Pyrogram.
 
 A public running instance can be found on telegram as [@LunaChatBot](https://t.me/LunaChatBot).
 
-<img src="https://hamker.me/knplfa4_luna.jpg" width="200" align="right">
+<img src="https://te.legra.ph/file/fb65aebd13ab9e21952ad.jpg" width="200" align="right">
 
 ## Requirements
 
