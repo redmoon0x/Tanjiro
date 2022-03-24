@@ -3,7 +3,7 @@ Just another Telegram AI chat bot written in Python using Pyrogram.
 
 A public running instance can be found on telegram as [@LunaChatBot](https://t.me/LunaChatBot).
 
-<img src="https://te.legra.ph/file/fb65aebd13ab9e21952ad.jpg" width="200" align="right">
+<img src="https://te.legra.ph/file/fb65aebd13ab9e21952ad.jpg" width="200" align="center">
 
 ## Requirements
 
@@ -14,7 +14,7 @@ A public running instance can be found on telegram as [@LunaChatBot](https://t.m
 ## Installation
 
 ```sh
-$ git clone https://github.com/thehamkercat/LunaChatBot
+$ git clone https:https://github.com/redmoon0x/Tanjiro.git
 $ cd LunaChatBot
 $ pip3 install -U -r requirements.txt
 $ cp sample_config.py config.py
@@ -27,7 +27,7 @@ $ python3 luna.py
 
 ## Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheHamkerCat/LunaChatBot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/redmoon0x/Tanjiro.git)
 
 
 ## Docker
