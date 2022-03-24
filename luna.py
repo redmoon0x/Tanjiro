@@ -13,7 +13,7 @@ if is_config:
 else:
     from sample_config import *
 
-luna = Client(
+Tanjiro = Client(
     ":memory:",
     bot_token=bot_token,
     api_id=6,
@@ -59,7 +59,7 @@ async def repo(_, message):
     )
 
 
-@luna.on_message(filters.command("help") & ~filters.edited)
+@tanjiro.on_message(filters.command("help") & ~filters.edited)
 async def start(_, message):
     await tanjiro.send_chat_action(message.chat.id, "typing")
     await sleep(2)
