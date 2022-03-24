@@ -1,7 +1,7 @@
 # Tanjiro
 Just another Telegram AI chat bot written in Python using Pyrogram.
 
-A public running instance can be found on telegram as [@LunaChatBot](https://t.me/LunaChatBot).
+A public running instance can be found on telegram as[@Tanjiroxbot ](https://t.me/Tanjiroxbot).
 
 <img src="https://te.legra.ph/file/fb65aebd13ab9e21952ad.jpg" width="200" align="center">
 
