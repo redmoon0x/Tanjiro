@@ -21,7 +21,7 @@
            "required": true
     },
     "LANGUAGE": {
-           "description": "Language of Chat Bot ,list --> https://py-googletrans.readthedocs.io/en/latest/#googletrans-languages",
+           "description": "Language of Chat Bot ,list --> https://py-googletrans.readthedocs.io/kn/latest/#googletrans-languages",
            "value": "en",
            "required": true
     },
